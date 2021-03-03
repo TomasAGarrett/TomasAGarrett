@@ -28,7 +28,7 @@
 
 <p align="center">
     <img alt="GlitchyMako's GitHub Stats" src="https://github-readme-stats.itsanuness.vercel.app/api?username=GlitchyMako&show_icons=true&hide_border=true&theme=midnight-cyan&locale=en" />
-    <img alt="GlitchyMako's GitHub Stats" src="hhttps://github-readme-stats.itsanuness.vercel.app/api/top-langs/?username=GlitchyMako&theme=midnight-cyan&line_height=27&layout=compact" />
+    <img alt="GlitchyMako's GitHub Stats" src="https://github-readme-stats.itsanuness.vercel.app/api/top-langs/?username=GlitchyMako&theme=midnight-cyan&line_height=27&layout=compact" />
 </p>
 
 <p  align="center">
