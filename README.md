@@ -1,21 +1,21 @@
 ### Hi there 👋
+<img align='right' src='https://media.giphy.com/media/kudIERso2pFiE/giphy.gif' width='370"'>
+<h2>I'm a Developer in Progress 🐺</h2>
 
-<h1 align="center">Hello 👋, I'm Tomás Almeida Garrett</h1>
-<h3 align="center">I'm a 42 School programming student and an aspiring game developer. I've been passionate about everything related to games</h3>
+<br><strong>- 🔭 I’m currently working on **Printf**
+<br><strong>- 🌱 I’m currently learning **C language principles**
+<br><strong>- 👯 I’m looking to collaborate on **Indie game development**
+<br><strong>- 🤝 I’m looking for help with **Unity / c#**
+<br><strong>- 👨‍💻 All of my projects are available at [github.com/GlitchyMako](github.com/GlitchyMako)
+<br><strong>- 📫 How to reach me **jalmeida@student.42lisboa.com**
+<br><strong>- ⚡ Fun fact **I worked in pastry before 42**
+</p>
+ 
+<h3> Operational Systems 🪄</h3>
+<p>
+  <a href="https://www.apple.com/macos/big-sur/" target="_blank"><img alt="macOS" src="https://img.shields.io/badge/macOS-Big%20Sur-292e33?style=flat-square&logo=apple&logoColor=ffffff"></a>
 
-- 🔭 I’m currently working on **Printf**
-
-- 🌱 I’m currently learning **C language principles**
-
-- 👯 I’m looking to collaborate on **Indie game development**
-
-- 🤝 I’m looking for help with **Unity / c#**
-
-- 👨‍💻 All of my projects are available at [github.com/GlitchyMako](github.com/GlitchyMako)
-
-- 📫 How to reach me **jalmeida@student.42lisboa.com**
-
-- ⚡ Fun fact **I worked in pastry before 42**
+<img src="https://giphy.com/gifs/LmNwrBhejkK9EFP504/html5"/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
