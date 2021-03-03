@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img align='right' src='https://media.giphy.com/media/kudIERso2pFiE/giphy.gif' width='370"'>
+<img align='right' src='https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif' width='370"'>
 <h2>I'm a Developer in Progress 🐺</h2>
 
 <br><strong>- 🔭 I’m currently working on **Printf**
@@ -14,8 +14,6 @@
 <h3> Operational Systems 🪄</h3>
 <p>
   <a href="https://www.apple.com/macos/big-sur/" target="_blank"><img alt="macOS" src="https://img.shields.io/badge/macOS-Big%20Sur-292e33?style=flat-square&logo=apple&logoColor=ffffff"></a>
-
-<img src="https://giphy.com/gifs/LmNwrBhejkK9EFP504/html5"/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
