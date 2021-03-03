@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**GlitchyMako/GlitchyMako** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <h1 align="center">Hello 👋, I'm Tomás Almeida Garrett</h1>
 <h3 align="center">I'm a 42 School programming student and an aspiring game developer. I've been passionate about everything related to games</h3>
 
