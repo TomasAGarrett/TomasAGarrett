@@ -4,10 +4,10 @@
 
 <h2>I'm a 42 School programming student and an aspiring game developer</h2>
 <br>
-<br><strong>- 🔭 I’m currently working on **Printf**
+<br><strong>- 🔭 I’m currently working on **Cub3D**
 <br><strong>- 🌱 I’m currently learning **C language principles**
 <br><strong>- 👯 I’m looking to collaborate on **Indie game development**
-<br><strong>- 🤝 I’m looking for help with **Unity / c#**
+<br><strong>- 🤝 I’m looking for help with **Unreal Engine 4 / c++**
 <br><strong>- 👨‍💻 All of my projects are available at [github.com/GlitchyMako](github.com/GlitchyMako)
 <br><strong>- 📫 How to reach me **jalmeida@student.42lisboa.com**
 <br><strong>- ⚡ Fun fact **I worked in pastry before 42**
