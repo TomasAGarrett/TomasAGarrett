@@ -1,11 +1,11 @@
 ### Hi there 👋
 <img align='right' src='https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif' width='370"'>
-<h2>I'm a Developer in Progress 🐺</h2>
+<h2>I'm a Game Developer in Progress 🐺</h2>
 
 <h2>I'm a 42 School programming student and an aspiring game developer</h2>
 <br>
 <br><strong>- 🔭 I’m currently working on **Push Swap**
-<br><strong>- 🌱 I’m currently learning **C language principles**
+<br><strong>- 🌱 I’m currently learning **C++ language principles**
 <br><strong>- 👯 I’m looking to collaborate on **game development**
 <br><strong>- 🤝 I’m looking for help with **Unreal Engine 5 / c++**
 <br><strong>- 👨‍💻 All of my projects are available at [github.com/GlitchyMako](github.com/GlitchyMako)
