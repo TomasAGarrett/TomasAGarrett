@@ -5,9 +5,9 @@
 <h2>I'm a 42 School programming student and an aspiring game developer</h2>
 <br>
 <br><strong>- 🔭 I’m currently working on **GNL**
-<br><strong>- 🌱 I’m currently learning **C++ language principles**
+<br><strong>- 🌱 I’m currently learning **C# language principles**
 <br><strong>- 👯 I’m looking to collaborate on **game development**
-<br><strong>- 🤝 I’m looking for help with **Unreal Engine 5 / c++**
+<br><strong>- 🤝 I’m looking for help with **Unity / c#**
 <br><strong>- 👨‍💻 All of my projects are available at [github.com/GlitchyMako](github.com/GlitchyMako)
 <br><strong>- 📫 How to reach me **jalmeida@student.42lisboa.com**
 <br><strong>- ⚡ Fun fact **I worked in pastry before 42**
