@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Tomás Almeida Garrett</h1>
-<h3 align="center">Fullstack developer from Portugal</h3>
+<h3 align="center">Narrative designer from Portugal</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tomasagarrett&label=Profile%20views&color=0e75b6&style=flat" alt="tomasagarrett" /> </p>
 
-- 🔭 I’m currently working on [Task App](https://github.com/TomasAGarrett/To-do-APP)
+- 🔭 I’m currently working on [Aetheris RPG]()
 
-- 🌱 I’m currently learning **Flutter, kotlin, kubernetes**
+- 🌱 I’m currently learning **Twine, game design, Unreal Engine 5**
 
-- 👯 I’m looking to collaborate on **Mobile and web projects**
+- 👯 I’m looking to collaborate on **Game design projects**
 
 - 🤝 I’m looking for **Work**
 
